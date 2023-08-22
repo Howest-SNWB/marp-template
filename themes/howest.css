@@ -28,7 +28,7 @@ section h1,
 section h2{
   font-family: "Arial Rounded MT Bold", "Nunito", sans-serif;
   border-bottom: rgb(68,200,245) solid;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 section.lead h1, section.lead h2, section.lead p{
   width: 75%;
