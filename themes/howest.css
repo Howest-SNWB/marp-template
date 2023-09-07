@@ -6,7 +6,7 @@
 section.lead {
   /* local:  
   background-image: url('./images/slides_bg_big.svg'); */
-  background-image: url('https://github.com/Howest-SNWB/marp-template/blob/main/images/slides_bg_big.svg');
+  background-image: url('https://raw.githubusercontent.com/Howest-SNWB/marp-template/main/images/slides_bg_big.svg');
   background-repeat: no-repeat;
   background-size:cover;
   background-position: 0;
@@ -59,7 +59,7 @@ footer{
   background-color: rgb(68,200,245) ;
   /* background-image: linear-gradient(to bottom right, #0074D9 50%, #fff 0%); */
   /* background-image: url('./images/Howest_RGB.png'); */
-  background-image: url('https://github.com/Howest-SNWB/marp-template/blob/main/images/Howest_RGB.png');
+  background-image: url('https://github.com/Howest-SNWB/marp-template/blob/main/images/Howest_RGB.png?raw=true');
   background-repeat: no-repeat;
   background-position: 97%;
   background-size: 120px;
