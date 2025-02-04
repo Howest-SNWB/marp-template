@@ -3,6 +3,13 @@
 @import 'default';
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,900');
 
+/*section is the main container for the slides*/
+section {
+  display: flex;
+  color: #000;
+  justify-content: start;
+}
+
 section.lead {
   /* local:  
   background-image: url('./images/slides_bg_big.svg'); */
@@ -17,12 +24,8 @@ section.lead {
   /* clip-path: polygon(5% 100%, 20% 0, 100% 0 ,100% 100%);  blue cutout in css*/
 }
 
-section {
-  color: #000;
-  justify-content: start;
-}
+/*pagenumber*/
 section::after{
-  /*pagenumber*/
   color: black;
 }
 
